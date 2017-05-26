@@ -1,0 +1,7 @@
+{
+  "extends": "rallycoding",
+  "rules": {
+    "semi": "off",
+    "arrow-body-style": "off"
+  }
+}
